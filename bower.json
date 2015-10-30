@@ -1,0 +1,24 @@
+{
+  "name": "angular-persian-date",
+  "description": "angular-persian-date",
+  "main": "angular-persian-date.js",
+  "authors": [
+    "Milad Hamzelou"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "persian",
+    "date"
+  ],
+  "homepage": "https://github.com/miladhamzelou/angular-persian-date",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
